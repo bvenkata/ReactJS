@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactJS/static/css/main.a617e044.chunk.css",
-    "main.js": "/ReactJS/static/js/main.2ec28ef9.chunk.js",
-    "main.js.map": "/ReactJS/static/js/main.2ec28ef9.chunk.js.map",
+    "main.js": "/ReactJS/static/js/main.9f6712f7.chunk.js",
+    "main.js.map": "/ReactJS/static/js/main.9f6712f7.chunk.js.map",
     "runtime-main.js": "/ReactJS/static/js/runtime-main.256fb554.js",
     "runtime-main.js.map": "/ReactJS/static/js/runtime-main.256fb554.js.map",
     "static/js/2.37390480.chunk.js": "/ReactJS/static/js/2.37390480.chunk.js",
@@ -12,12 +12,16 @@
     "index.html": "/ReactJS/index.html",
     "static/css/main.a617e044.chunk.css.map": "/ReactJS/static/css/main.a617e044.chunk.css.map",
     "static/js/2.37390480.chunk.js.LICENSE.txt": "/ReactJS/static/js/2.37390480.chunk.js.LICENSE.txt",
-    "static/media/Profile.97b8c2f8.JPG": "/ReactJS/static/media/Profile.97b8c2f8.JPG"
+    "static/media/Html.cac0a11f.jpg": "/ReactJS/static/media/Html.cac0a11f.jpg",
+    "static/media/Java.fca3a1d5.png": "/ReactJS/static/media/Java.fca3a1d5.png",
+    "static/media/Profile.97b8c2f8.JPG": "/ReactJS/static/media/Profile.97b8c2f8.JPG",
+    "static/media/Python.9e5831ee.png": "/ReactJS/static/media/Python.9e5831ee.png",
+    "static/media/Rest.6f299edb.png": "/ReactJS/static/media/Rest.6f299edb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.256fb554.js",
     "static/js/2.37390480.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.2ec28ef9.chunk.js"
+    "static/js/main.9f6712f7.chunk.js"
   ]
 }
